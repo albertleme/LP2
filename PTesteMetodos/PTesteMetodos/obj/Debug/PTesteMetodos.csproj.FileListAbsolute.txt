@@ -1,0 +1,36 @@
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csprojResolveAssemblyReference.cache
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmPrincipal.resources
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.Cache
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+c:\users\aluno.lti\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio2.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmPrincipal.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio2.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csprojAssemblyReference.cache
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmPrincipal.resources
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio2.resources
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+F:\FATEC\Linguagem de Programação II\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio3.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio3.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio4.resources
+C:\Users\User\Documents\Albert\LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.FrmExercicio5.resources

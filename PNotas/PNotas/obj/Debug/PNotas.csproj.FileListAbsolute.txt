@@ -1,0 +1,9 @@
+C:\Users\0030482013035\Desktop\PNotas\PNotas\bin\Debug\PNotas.exe.config
+C:\Users\0030482013035\Desktop\PNotas\PNotas\bin\Debug\PNotas.exe
+C:\Users\0030482013035\Desktop\PNotas\PNotas\bin\Debug\PNotas.pdb
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.csprojResolveAssemblyReference.cache
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.frmPrincipal.resources
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.Properties.Resources.resources
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.csproj.GenerateResource.Cache
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.exe
+C:\Users\0030482013035\Desktop\PNotas\PNotas\obj\Debug\PNotas.pdb

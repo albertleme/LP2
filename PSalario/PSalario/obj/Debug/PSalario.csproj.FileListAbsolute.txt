@@ -1,0 +1,20 @@
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\bin\Debug\PSalario.exe.config
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\bin\Debug\PSalario.exe
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\bin\Debug\PSalario.pdb
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.csprojResolveAssemblyReference.cache
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.frmSalario.resources
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.Cache
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.exe
+c:\users\aluno.local\documents\visual studio 2013\Projects\PSalario\PSalario\obj\Debug\PSalario.pdb
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.frmSalario.resources
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\User\Documents\Albert\LP2\PSalario\PSalario\obj\Debug\PSalario.pdb

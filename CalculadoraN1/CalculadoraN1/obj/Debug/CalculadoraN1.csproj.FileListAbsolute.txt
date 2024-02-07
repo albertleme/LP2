@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.Form1.resources
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\bin\Debug\CalculadoraN1.exe.config
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\bin\Debug\CalculadoraN1.exe
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\bin\Debug\CalculadoraN1.pdb
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.exe
+C:\Users\User\Documents\Albert\LP2\CalculadoraN1\CalculadoraN1\obj\Debug\CalculadoraN1.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.exe.config
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.exe
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.pdb
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.Form1.resources
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.exe
+C:\Users\User\Documents\Albert\LP2\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.pdb

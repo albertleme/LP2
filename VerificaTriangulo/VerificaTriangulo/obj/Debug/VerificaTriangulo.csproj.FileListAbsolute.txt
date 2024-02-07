@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.Form1.resources
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.exe.config
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.exe
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.pdb
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.exe
+C:\Users\User\Documents\Albert\LP2\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.pdb

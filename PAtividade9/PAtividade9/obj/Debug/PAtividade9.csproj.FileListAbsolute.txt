@@ -1,0 +1,25 @@
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe.config
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\bin\Debug\PAtividade9.pdb
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csprojResolveAssemblyReference.cache
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmPrincipal.resources
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.GenerateResource.Cache
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
+c:\users\0030482013011\documents\visual studio 2013\Projects\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmPrincipal.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio1.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.GenerateResource.cache
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe.config
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.pdb
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio2.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio3.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio4.resources
+C:\Users\User\Documents\Albert\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio5.resources

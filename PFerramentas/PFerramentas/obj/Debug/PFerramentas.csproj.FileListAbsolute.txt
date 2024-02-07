@@ -1,0 +1,16 @@
+C:\Users\0030482123001\source\repos\PFerramentas\PFerramentas\obj\Debug\PFerramentas.csprojAssemblyReference.cache
+C:\Users\0030482123001\source\repos\PFerramentas\PFerramentas\obj\Debug\PFerramentas.Form1.resources
+C:\Users\0030482123001\source\repos\PFerramentas\PFerramentas\obj\Debug\PFerramentas.FrmFerramentas.resources
+C:\Users\0030482123001\source\repos\PFerramentas\PFerramentas\obj\Debug\PFerramentas.Properties.Resources.resources
+C:\Users\0030482123001\source\repos\PFerramentas\PFerramentas\obj\Debug\PFerramentas.csproj.GenerateResource.cache
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.csprojAssemblyReference.cache
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.Form1.resources
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.FrmFerramentas.resources
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.Properties.Resources.resources
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.csproj.GenerateResource.cache
+F:\PFerramentas\PFerramentas\bin\Debug\PFerramentas.exe.config
+F:\PFerramentas\PFerramentas\bin\Debug\PFerramentas.exe
+F:\PFerramentas\PFerramentas\bin\Debug\PFerramentas.pdb
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.frmSobre.resources
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.exe
+F:\PFerramentas\PFerramentas\obj\Debug\PFerramentas.pdb
